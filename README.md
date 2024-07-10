@@ -1,4 +1,4 @@
-# YOLOV1-pytorch
+# YOLOV1-pytorch注释版
 使用的pytorch版本为1.7.1 经测试1.11.0也可以正常运行
 
 VOC2007数据集下载地址：
