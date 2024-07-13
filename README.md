@@ -5,6 +5,10 @@ VOC2007数据集下载地址：
 链接：https://pan.baidu.com/s/1aB1rXpKlWlEd4WFpBAmzWA 
 提取码：1234
 
+首先创建文件夹用来存放数据，需要创建的文件夹如下：
+VOCdevkit\VOC2007\Annotations：用来存放数据的标注信息
+VOCdevkit\VOC2007\JPEGImages：用来存放数据的原始图片
+
 使用VOC2007数据集训练步骤：
 1、下载数据集放入文件夹中
 
